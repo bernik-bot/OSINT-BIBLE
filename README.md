@@ -1572,6 +1572,13 @@ site:*.*.target.com
 | [IntelOwl](https://github.com/intelowlproject/IntelOwl) | 4,728 | Python | 2026-09 | Scalable CTI at volume: enriches observables through dozens of analyzers and connectors |
 | [harpoon](https://github.com/Te-k/harpoon) | 1,293 | Python | 2026-09 | CLI combining open-source intelligence and threat intelligence lookups |
 
+### 33.6 Internet Cyber Health Indexes
+| Feed | Type | URL |
+|---|---|---|
+| **ICHI — Internet Cyber Health Index** | Daily cyber health barometer | https://ichi.global |
+
+> ICHI aggregates signals from 50+ public sources (threat feeds, vulnerability databases, network monitoring) into a free, source-transparent daily health score for the internet. Disclosure: submitted by the creator's automated assistant.
+
 ## 34. ICS/OT & Critical-Infrastructure OSINT
 
 **OSINT for industrial control systems, SCADA, and critical infrastructure:**
